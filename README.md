@@ -1,2 +1,2 @@
-# RAi
+# RAI
 Robotics &amp; AI
